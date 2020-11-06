@@ -1,0 +1,2 @@
+# DEC_APP_TCC
+Este será meu primeiro aplicativo Mobile, construído com React Native! Aqui serão disponibilizados todo o código até o produto final, que será parte importante do meu trabalho de conclusão de curso, no SENAI SP - São Caetano do Sul. Irá compor um projeto de um diagnóstico de energia residencial, capaz de medir e verificar quantos kWh foram consumidos durante o mês, simplificando a vida do cliente nas leituras complexas para ter mais consciência de seus gastos e consequentemente ajudar todo o ecossistema.
