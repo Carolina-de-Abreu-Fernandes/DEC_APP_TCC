@@ -7,7 +7,6 @@ import Input from './views/InputForm';
 export default function App() {
   return (
     <View style={styles.container}>
-      <Login />
       <StatusBar style="auto" />
       <NameForm />
       <Input />
